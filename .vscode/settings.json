@@ -1,0 +1,6 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "tslint.autoFixOnSave": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "typescript.referencesCodeLens.enabled": true,
+}

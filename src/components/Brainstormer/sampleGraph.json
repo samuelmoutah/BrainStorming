@@ -1,0 +1,109 @@
+{
+    "edges": [
+      {
+        "source": "a1",
+        "target": "a5",
+        "type": "emptyEdge"
+      },
+      {
+        "source": "a1",
+        "target": "a6",
+        "type": "emptyEdge"
+      },
+      {
+        "source": "a1",
+        "target": "a7",
+        "type": "emptyEdge"
+      },
+      {
+        "source": "start1",
+        "target": "a4",
+        "type": "specialEdge"
+      },
+      {
+        "source": "a4",
+        "target": "a3",
+        "type": "emptyEdge"
+      },
+      {
+        "source": "a1",
+        "target": "a2",
+        "type": "specialEdge"
+      },
+      {
+        "source": "start1",
+        "target": "a1",
+        "type": "specialEdge"
+      },
+      {
+        "source": "a2",
+        "target": 1543881395504,
+        "type": "emptyEdge"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "start1",
+        "title": "Eggs",
+        "type": "special",
+        "x": 215.01318359375,
+        "y": 226.331298828125
+      },
+      {
+        "id": 1543881395504,
+        "title": "Egg drop soup",
+        "type": "special",
+        "x": 606.7923583984375,
+        "y": 112.18301391601562
+      },
+      {
+        "id": "a1",
+        "title": "Eggs Benedict",
+        "type": "special",
+        "x": 416.4923095703125,
+        "y": 390.1602783203125
+      },
+      {
+        "id": "a2",
+        "subtype": "specialChild",
+        "title": "Egg soup",
+        "type": "customEmpty",
+        "x": 644.7646484375,
+        "y": 392.5939636230469
+      },
+      {
+        "id": "a3",
+        "title": "Quail eggs",
+        "type": "customEmpty",
+        "x": -39.710636138916016,
+        "y": 75.1843490600586
+      },
+      {
+        "id": "a4",
+        "title": "Jumbo eggs",
+        "type": "customEmpty",
+        "x": 390.03546142578125,
+        "y": -53.500831604003906
+      },
+      {
+        "id": "a5",
+        "title": "Over-easy eggs",
+        "x": 50.5757598876953,
+        "y": 500.8181838989258
+      },
+      {
+        "id": "a6",
+        "title": "Cheese Ommelete",
+        "type": "skinny",
+        "x": 300,
+        "y": 600
+      },
+      {
+        "id": "a7",
+        "title": "Quiche",
+        "type": "poly",
+        "x": -109.81336975097656,
+        "y": 292.30810546875
+      }
+    ]
+  }

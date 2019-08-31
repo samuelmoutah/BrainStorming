@@ -1,0 +1,13 @@
+.side-bar{
+    background-color: #eee;
+}
+
+main{
+    height: 95vh;
+    display: grid;
+    grid-template-columns: 260px auto 20%;
+}
+
+svg.graph{
+    height: stretch !important;
+}

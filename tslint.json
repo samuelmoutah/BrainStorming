@@ -1,0 +1,6 @@
+{
+    "extends": ["tslint-react"],
+    "rules":{        
+        "quotemark": [true, "single", "jsx-double", "avoid-escape"],
+    }
+}

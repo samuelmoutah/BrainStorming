@@ -1,0 +1,21 @@
+.results.side-bar {
+    background-color: #eee;
+    .card {
+        &.selected {
+            height: 80%;
+            &>.card-header {
+                //background-color: rgb(92, 218, 46);
+                background-color: #ff7f17;
+            }
+        }
+        .results-section-body {
+            transition: height 4s;
+            min-height: 70vh;
+            max-height: 83vh;
+            overflow-y: auto;
+        }
+    }
+    .card-header {
+        background-color: #1e90ff46;
+    }
+}

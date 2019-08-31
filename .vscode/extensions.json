@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "eg2.tslint",
+        "dsznajder.es7-react-js-snippets",
+        "mrmlnc.vscode-scss",
+        "robertohuertasm.vscode-icons",
+        "formulahendry.auto-rename-tag",
+        "formulahendry.auto-close-tag",
+        "eamodio.gitlens"
+    ]
+}
